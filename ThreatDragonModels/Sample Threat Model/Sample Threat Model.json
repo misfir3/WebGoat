@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "Sample Threat Model",
+    "owner": "Jason White",
+    "description": "This is a threat model for an example system"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "diagram1",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Ferris Bueller"
+  }
+}
